@@ -14,4 +14,4 @@ citation: "Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhan
 - **Author:** Junteng Liu (first author)
 - **Co-authors:** Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
 - **Year:** 2025
-- **GitHub code repository:** yes (has a GitHub code repository)
+- **GitHub code repository:** the paper has a GitHub code repository.
